@@ -1,0 +1,40 @@
+﻿body {
+    font-family: Verdana;
+    font-variant: small-caps;
+    font-size: medium;
+}
+
+#header {
+    height: 80px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+#nav {
+    background-color: black;
+    height: 600px;
+    width: auto;
+    float: left;
+}
+
+.level1 {
+    color: White;
+    background-color: black;
+    font-variant: small-caps;
+    font-size: large;
+    padding: 18px;
+}
+
+.hoverstyle {
+    font-weight: bold;
+}
+
+.BodyContent {
+    height: 100%;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 10px;
+}

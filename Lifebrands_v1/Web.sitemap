@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default" title="Home"  description="">
+    <siteMapNode url="Employee_Maint.aspx" title="Employees"  description="Add Edit Delete Employee Objects" />
+    <siteMapNode url="Vendor_Maint.aspx" title="Vendors"  description="Add Edit Delete Vendor Objects" />
+    <siteMapNode url="Event_Manager.aspx" title="Events"  description="Create Edit Delete Sales Events" />
+    <siteMapNode url="Promo_Builder.aspx" title="Promotions"  description="Create Edit Delete Promotional Events" />
+    <siteMapNode url="Report_Builder.aspx" title="Reports"  description="Display Reports" />
+  </siteMapNode>
+</siteMap>
